@@ -2,7 +2,7 @@
 
  # Overview
 
-This project is a Python-based analysis of tweets from @RutgersU and former President Donald Trump, aimed at uncovering trends in sentiment, engagement, and tweet patterns. By utilizing advanced data science techniques, the project provides insights into tweet content, sentiment distribution, and engagement metrics, leveraging a range of Python libraries for analysis and visualization.
+This project is a Python-based analysis of tweets from Rutgers and former President Donald Trump, aimed at uncovering trends in sentiment, engagement, and tweet patterns. By utilizing advanced data science techniques, the project provides insights into tweet content, sentiment distribution, and engagement metrics, leveraging a range of Python libraries for analysis and visualization.
 
 # Key Features
 
